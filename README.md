@@ -5,6 +5,10 @@
 
 ¡Bienvenido al repositorio oficial del bot de Discord KAREN PROYECT IA! Este bot está diseñado para mejorar tu servidor de Discord con una serie de potentes funciones.
 
+<a href="https://top.gg/discord/servers/756454409064058880">
+  <img src="https://top.gg/api/v1/widgets/large/756454409064058880">
+</a>
+
 ✨ Características Principales
 KAREN PROYECT IA es un bot multifuncional que ofrece una amplia gama de herramientas para la moderación, el entretenimiento y la gestión de la comunidad. A continuación se detallan las principales características:
 
