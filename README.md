@@ -1,4 +1,5 @@
-⚔️ KAREN PROYECT IA ⚔️
+![karen proyect](https://github.com/user-attachments/assets/bf2ed30a-d885-4569-a4c2-e794c3d16bda)
+                                                                              ⚔️ KAREN PROYECT IA ⚔️
 
 ¡Bienvenido al repositorio oficial del bot de Discord Shadow Knight IA! Este bot está diseñado para mejorar tu servidor de Discord con una serie de potentes funciones.
 
@@ -38,4 +39,3 @@ Este proyecto está bajo la licencia de la empresa Empyrea Security Cloud© C.V�
 📧 Contacto
 Si tienes preguntas, comentarios o necesitas ayuda, puedes unirte a nuestro servidor de soporte de Discord  o contactarnos a través de [FACEBOOK](https://www.facebook.com/share/1VZEwEZx18/)
 
-![karen proyect](https://github.com/user-attachments/assets/bf2ed30a-d885-4569-a4c2-e794c3d16bda)
