@@ -6,32 +6,17 @@
 KAREN PROYECT IA es un bot multifuncional que ofrece una amplia gama de herramientas para la moderación, el entretenimiento y la gestión de la comunidad. A continuación se detallan las principales características:
 
 🛡️ Moderación automática de anime: Detecta y elimina automáticamente contenido inapropiado o violaciones de las reglas del servidor, especialmente en temas relacionados con anime, para mantener un ambiente seguro y agradable.
-
 🤖 Chatbot: Un chatbot inteligente que puede responder preguntas, participar en conversaciones y ayudar con diversas tareas, mejorando la interacción en el servidor.
-
-🖼️ Imagen: Genera o edita imágenes, o realiza otras operaciones relacionadas con imágenes directamente en Discord.
-
-🎶 Música: Reproduce música de alta calidad en los canales de voz, con comandos para gestionar la cola de reproducción, pausar, saltar y mucho más.
-
 📊 Tablas de clasificación: Fomenta la competencia amistosa y el compromiso con tablas de clasificación personalizables para diferentes actividades.
-
 ⬆️ Recompensas: Un sistema de recompensas para premiar a los usuarios activos, ya sea a través de puntos, roles especiales o insignias.
-
 ➡️ Roles de reacción: Permite a los usuarios auto-asignarse roles haciendo clic en reacciones a un mensaje específico.
-
 📜 Autoroles automático: Asigna roles automáticamente a los nuevos miembros al unirse al servidor.
-
-🎟️ Entradas: Un sistema de soporte o "tickets" que permite a los usuarios crear canales privados para pedir ayuda o reportar problemas al equipo de moderación.
 
 🚀 Comandos
 Para usar Karen Proyect IA, simplemente utiliza el prefijo /. Aquí tienes algunos de los comandos más comunes:
-
 /help: Muestra una lista de todos los comandos disponibles.
-
 /play [URL/nombre de la canción]: Reproduce una canción en el canal de voz.
-
 /rank: Muestra tu posición en las tablas de clasificación.
-
 /ticket new: Crea un nuevo ticket de soporte.
 
 🛠️ Configuración
