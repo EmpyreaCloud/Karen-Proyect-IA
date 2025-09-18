@@ -1,7 +1,7 @@
 ![karen proyect](https://github.com/user-attachments/assets/bf2ed30a-d885-4569-a4c2-e794c3d16bda)
                                                                               
                                                                              
-                                                                              ⚔️ KAREN PROYECT IA ⚔️
+                                                        ⚔️ KAREN PROYECT IA ⚔️
 
 ¡Bienvenido al repositorio oficial del bot de Discord KAREN PROYECT IA! Este bot está diseñado para mejorar tu servidor de Discord con una serie de potentes funciones.
 
