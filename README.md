@@ -5,10 +5,6 @@
 
 ¡Bienvenido al repositorio oficial del bot de Discord KAREN PROYECT IA! Este bot está diseñado para mejorar tu servidor de Discord con una serie de potentes funciones.
 
-<a href="https://top.gg/discord/servers/756454409064058880">
-  <img src="https://top.gg/api/v1/widgets/large/756454409064058880">
-</a>
-
 ✨ Características Principales
 KAREN PROYECT IA es un bot multifuncional que ofrece una amplia gama de herramientas para la moderación, el entretenimiento y la gestión de la comunidad. A continuación se detallan las principales características:
 
@@ -34,7 +30,12 @@ Para usar Karen Proyect IA, simplemente utiliza el prefijo /. Aquí tienes algun
 🛠️ Configuración
 Para configurar el bot en tu servidor, [visita el enlace de invitación](https://discord.com/oauth2/authorize?client_id=1381516293101850685&permissions=4010949698650103&integration_type=0&scope=bot+applications.commands) y selecciona el servidor donde quieres agregarlo.
 una vez añadida como quien dice ¡A DISFRUTAR DE LA BOT!
-Si sucede algo y si quieres estar atento/a de modificaciones pdoes unirte al  [servidor de discord](https://discord.gg/YSzxMn3Qkq)
+Si sucede algo y si quieres estar atento/a de modificaciones pdoes unirte aL SERVVIDOR mediante top gg 
+
+<a href="https://top.gg/discord/servers/756454409064058880">
+  <img src="https://top.gg/api/v1/widgets/large/756454409064058880">
+</a>
+
 
 🤝 Contribuciones
 Si te gusta nuestro bot y quieres contribuir, ¡estamos abiertos a tus ideas! Por favor, revisa las directrices de contribución para más información.
