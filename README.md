@@ -1,9 +1,9 @@
- V                                     ![karen proyect](https://github.com/user-attachments/assets/bf2ed30a-d885-4569-a4c2-e794c3d16bda)
+![karen proyect](https://github.com/user-attachments/assets/bf2ed30a-d885-4569-a4c2-e794c3d16bda)
                                                                               
                                                                              
                                                                               ⚔️ KAREN PROYECT IA ⚔️
 
-¡Bienvenido al repositorio oficial del bot de Discord Shadow Knight IA! Este bot está diseñado para mejorar tu servidor de Discord con una serie de potentes funciones.
+¡Bienvenido al repositorio oficial del bot de Discord KAREN PROYECT IA! Este bot está diseñado para mejorar tu servidor de Discord con una serie de potentes funciones.
 
 ✨ Características Principales
 KAREN PROYECT IA es un bot multifuncional que ofrece una amplia gama de herramientas para la moderación, el entretenimiento y la gestión de la comunidad. A continuación se detallan las principales características:
