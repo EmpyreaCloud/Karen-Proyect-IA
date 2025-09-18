@@ -38,4 +38,4 @@ Este proyecto está bajo la licencia de la empresa Empyrea Security Cloud© C.V�
 📧 Contacto
 Si tienes preguntas, comentarios o necesitas ayuda, puedes unirte a nuestro servidor de soporte de Discord  o contactarnos a través de [FACEBOOK](https://www.facebook.com/share/1VZEwEZx18/)
 
-     KAREN PROYECT IA](https://i.postimg.cc/sfW4xttK/standard-3.gif )
+https://i.postimg.cc/sfW4xttK/standard-3.gif
