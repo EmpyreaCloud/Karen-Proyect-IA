@@ -79,10 +79,13 @@ Sigan los pasos del video para que puedan agregar a Karen Proyect IA a su discor
 ![Separador-de-dudas-fin-de-temas](https://github.com/user-attachments/assets/4b3a3525-983f-43e5-95d9-bbe7c27140db)
 **Para activar Setup:**
 
+
+https://github.com/user-attachments/assets/f6671f6c-c98b-4c8c-a021-36228fe92189
 ```bash
 PROXIMAMENTE ANQUE YA SE ENCUENTRAS DISPONIBLES.
 ```
 ![Separador-de-dudas-fin-de-temas](https://github.com/user-attachments/assets/4b3a3525-983f-43e5-95d9-bbe7c27140db)
+
 #### **Opciones de Despliegue en celular android e ios**
 
 ```bash
