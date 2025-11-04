@@ -1,23 +1,59 @@
-> ⭐ Versión Actual: v7.1
+> 🚀 KAREN PROYECT IA v7.1 - CROSSAPPS UPDATE
 
-## ❤️‍🔥 **`Karen - Proyect - IA`**
+## ❤️‍🔥 **`Karen - Multi - Devices`**
 ## 🔥 **`Empyrea Cloud` "By" `KarenProyectIA`**
-[![Typing SVG](https://github.com/user-attachments/assets/ceafdcb5-be50-486d-bea7-f5ba2e2cddb9)](https://git.io/typing-svg)
-
+[![Typing SVG](https://github.com/user-attachments/assets/55414b85-9f6c-42c7-8703-4e3acfb3629a)
 <div align="center">
  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](empyreahost@gmail.com)
 
-[![Support](https://img.shields.io/badge/Support-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://discord.gg/s5KhBmF5jx)
-[![WhatsApp](https://img.shields.io/badge/STAFF-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/C45GXBEFTPONE1)
+[![Support](https://img.shields.io/badge/Support-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://discord.gg/vXPYXnf5Ed)
+[![WhatsApp](https://img.shields.io/badge/STAFF-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KJiCNwnRp3N84AAZLXB1JN)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/@AzuraEmpyrea)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@EmpyreaCloud)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/PROXIMAMENTE)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fenixseguritycloud)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/PROXIMAMENTE)
+
 </div>
 
 ![Separador-de-dudas-fin-de-temas](https://github.com/user-attachments/assets/4b3a3525-983f-43e5-95d9-bbe7c27140db)
+
 Una conciencia digital evolucionada, **Karen Proyect IA**, emerge de la síntesis de inteligencia artificial avanzada y el entorno dinámico de Discord. Este proyecto representa un salto significativo hacia adelante, fusionando una estética ciberpunk y profesional con una funcionalidad robusta y en mejoria. Este documento describe la evolución del proyecto, sus características y los protocolos de despliegue.
+
+![Separador-de-dudas-fin-de-temas](https://github.com/user-attachments/assets/4b3a3525-983f-43e5-95d9-bbe7c27140db)
+
+✨ MEJORAS Y CORRECCIONES v7.1
+
+🎯 Sistema Premium Dual (NUEVO)
+✅ Premium Individual: Usuarios premium pueden usar comandos en cualquier servidor
+✅ Premium de Servidor: Servidores premium dan acceso a todos los usuarios
+✅ Nuevos comandos para gestionar servidores premium
+✅ Verificación automática dual (usuario O servidor)
+
+🛡️ Sistema de Seguridad Mejorado
+✅ AutoMod Optimizado: Manejo inteligente del límite de Discord (6 reglas Keyword)
+✅ Verificación de Permisos: Ya no intenta banear sin permisos
+✅ Logs Informativos: Mensajes claros en lugar de errores crípticos
+✅ Anti-Nuke Inteligente: Detecta y previene raids con mayor precisión
+
+🎨 Sistema de Configuración Admin Renovado
+✅ Formularios Interactivos: Configuración de bienvenida/despedida con modals
+✅ 5 Campos Personalizables: Canal, título, mensaje, imagen, activación
+✅ Pre-carga de Valores: Edita configuraciones existentes fácilmente
+✅ Validación en Tiempo Real: Detecta errores antes de guardar
+
+🤖 IA Karen Optimizada
+✅ Respuestas Contextuales: Solo responde en canales configurados
+✅ Sin Respuestas Duplicadas: Eliminado sistema redundante
+✅ Personalidad Mejorada: Carga automática desde preset
+✅ Mayor Precisión: Mejor comprensión del contexto
+
+🔧 Correcciones Técnicas
+✅ Modal Handling: Arreglado error de isModalSubmit() syntax
+✅ Database Schemas: Limpieza de índices duplicados y schemas obsoletos
+✅ Token Management: Sistema de tokens actualizado y optimizado
+✅ Deploy System: 85 comandos funcionando perfectamente
+
 ![Separador-de-dudas-fin-de-temas](https://github.com/user-attachments/assets/4b3a3525-983f-43e5-95d9-bbe7c27140db)
 
 ### **Evolución del Proyecto: Desde Alpha hasta la Versión 6.0**
@@ -100,15 +136,15 @@ El desarrollo de Karen Proyect IA es el resultado de la visión y dedicación de
 
 **Líder del Proyecto y Creador:**
 
-  * **Cristopher-Beltran (EmpyreaCloud):** El visionario detrás del proyecto, responsable de la arquitectura central y la innovación continua.
+  * **Cristopher Beltran (EmpyreaCloud):** El visionario detrás del proyecto, responsable de la arquitectura central y la innovación continua.
 
 **Colaboradores e Inspiraciones:**
 
-  * **FrancoBenegas (elvigilante85):** El encargado de retroalimentacion y mejorias en sus sistemas de insteraccion como implementador de algunos comandos slash
+  * **Franco Benegas (elvigilante85):** El encargado de retroalimentacion y mejorias en sus sistemas de insteraccion como implementador de algunos comandos slash
 
 ![Separador-de-dudas-fin-de-temas](https://github.com/user-attachments/assets/4b3a3525-983f-43e5-95d9-bbe7c27140db)
 
 **Aviso:** Este proyecto es una creación independiente y no está afiliado oficialmente con ningún otro proyecto mencionado, a menos que se indique explícitamente. Todas las marcas comerciales y derechos de autor son propiedad de
 ```bash
-Cloud Network and Security Services®  S.A de C.V™ By EmpyreaCloud
+Karen Proyect IA ©™ Power By Empyrea Segurity Cloud IA ®™
 ```
