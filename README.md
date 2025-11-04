@@ -1,5 +1,4 @@
-
-> ⭐ Versión Actual: v6.0
+> ⭐ Versión Actual: v7.1
 
 ## ❤️‍🔥 **`Karen - Proyect - IA`**
 ## 🔥 **`Empyrea Cloud` "By" `KarenProyectIA`**
@@ -8,6 +7,7 @@
 <div align="center">
  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](empyreahost@gmail.com)
+
 [![Support](https://img.shields.io/badge/Support-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://discord.gg/s5KhBmF5jx)
 [![WhatsApp](https://img.shields.io/badge/STAFF-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/C45GXBEFTPONE1)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/@AzuraEmpyrea)
